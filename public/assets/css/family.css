@@ -1,0 +1,40 @@
+#add-hobbie-btn{
+	border-radius: 42px;
+}
+
+.wedDate{
+	margin-top: 25px;
+	display: none;
+}
+
+ .swal2-modal{
+	height: 340px !important;
+	width: 335px;
+	border-radius: 25px;
+}
+
+.leading-5{
+	margin-top: 30px !important;
+}
+
+.pagination{
+	dispay:none !important;
+}
+
+  #scrollToTopButton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+    border-radius: 30px;
+    padding-bottom: 9px;
+
+}
+
+.card{
+	height: 450px !important;
+}
+
+.card img{
+	height: 320px !important;
+}
